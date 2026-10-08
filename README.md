@@ -31,10 +31,7 @@ No server, no account, no internet needed. All data stays on your device.
 - **iPhone:** open in Safari → Share → *Add to Home Screen*
 - **Desktop:** Chrome/Edge → install icon in address bar
 
-## 📂 Build as EXE / APK
 
-- **EXE (Windows):** wrap with [Tauri](https://tauri.app), [Pake](https://github.com/tw93/Pake), or no-code [WebCatalog](https://webcatalog.io)
-- **APK (Android):** easiest = [PWABuilder.com](https://www.pwabuilder.com) (paste your GitHub Pages URL → download signed APK/AAB), or use Capacitor
 
 ## 🔒 Privacy
 
@@ -62,17 +59,8 @@ MIT — free to use, modify and share.
 - 6 خودکار بیک اپ snapshots بنتے رہتے ہیں
 - **Settings → Export Backup** سے JSON فائل ڈاؤن لوڈ کریں اور USB/Google Drive میں رکھیں
 - PIN لگائیں: Settings → Security → Set PIN
-
-### GitHub Pages پر کیسے پبلش کریں؟
-1. github.com پر اکاؤنٹ بنائیں → **New Repository** (نام: `apex-tracker`)
-2. اس فولڈر کی تمام فائلیں اپ لوڈ کریں (`Add file → Upload files`)
-3. **Settings → Pages** میں جائیں → Branch: `main` → فولڈر `/root` → **Save**
-4. 1 منٹ میں آپ کا لنک تیار: `https://YOUR-USERNAME.github.io/apex-tracker/`
-5. اس لنک کو فون میں کھول کر **Install App** کریں — بالکل اصلی ایپ کی طرح چلے گی
-
-### EXE یا APK بنانا ہو تو؟
-- **EXE (کمپیوٹر):** WebCatalog.io (آسان ترین، بغیر کوڈنگ) یا Tauri/Pake
-- **APK (موبائل):** PWABuilder.com پر اپنا GitHub Pages لنک ڈالیں → APK ڈاؤن لوڈ کریں۔ Play Store پر ڈالنے کے لیے AAB فائل استعمال ہوگی۔
+  "By MuzammilShab"
+فائل استعمال ہوگی۔
 
 ### نوٹ
 ہر ڈیوائس کا ڈیٹا اسی ڈیوائس میں رہتا ہے (دوسرے فون میں خودبخود sync نہیں ہوتا)۔ ڈیوائس بدلنی ہو تو پہلے Export Backup لیں اور نئی ڈیوائس پر Import کر لیں۔
